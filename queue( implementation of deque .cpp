@@ -118,6 +118,8 @@ int main(){
     de.addFront( 2 );
     de.removeFront();
     cout << de.isEmpty() << endl;
-
+    
+    // output
+    // false
     return 0;
 }
